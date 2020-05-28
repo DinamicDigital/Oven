@@ -1,0 +1,10 @@
+Day 1:
+	Setup source tree
+	Got first build and debug up and running
+Day 2:
+	Added raylib
+	Setup a window
+	setup 3D with grid
+	Added raylib's default free view camera. (which is kinda broken.)
+Day 3:
+	

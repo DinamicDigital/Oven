@@ -1,0 +1,17 @@
+TODO is a broad overview of what needs to get done. presented in a hierarchical fashion.
+Prototype:
+	
+	(On Hold, using default raylib freecam) {
+	Move mode:
+		Basic 3D camera movement with locked + hidden mouse
+	Edit mode:
+		stops move mode, and unlocks and shows mouse, you can click to attempt to select an object, and
+	} 
+
+	Input:
+
+	W: Transform selected object
+	E: Scale selected object
+	R: Rotate selected object
+	`: Spawn object (Cube)
+	
