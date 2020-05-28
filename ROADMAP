@@ -7,4 +7,7 @@ Day 2:
 	setup 3D with grid
 	Added raylib's default free view camera. (which is kinda broken.)
 Day 3:
-	
+	Added raycasting from mouse.
+	Made arrow model
+	Added rotations
+	Setup arrows like an editor.
